@@ -596,7 +596,7 @@ form button{
     margin-bottom: 5%;
   }
   #gallery{
-    height: 330vh;
+    height: 400vh;
   }
   #skillsEdu{
     height: 150vh;
@@ -644,7 +644,7 @@ form button{
   }
 
   #contact{
-    height: 300vh;
+    height: 150vh;
   }
 
   .footer-logo{
@@ -773,3 +773,9 @@ form button{
 
 body{overflow-x: hidden}
 
+
+#contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
